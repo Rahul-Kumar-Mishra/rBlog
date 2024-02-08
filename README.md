@@ -10,6 +10,6 @@ They can access the old one with the date as well.
 
 ## Installation
 **Clone the Repository:**
-git clone https://github.com/your-username/rblog.git
+git clone https://github.com/Rahul-Kumar-Mishra/rblog.git
 cd rblog
 npm install
